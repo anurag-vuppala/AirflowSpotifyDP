@@ -1,0 +1,28 @@
+[2022-01-29 21:08:43,561] {processor.py:163} INFO - Started process (PID=2948) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:08:43,562] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2022-01-29 21:08:43,562] {logging_mixin.py:109} INFO - [2022-01-29 21:08:43,562] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:08:43,608] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:08:43,628] {logging_mixin.py:109} INFO - [2022-01-29 21:08:43,628] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:08:43,638] {logging_mixin.py:109} INFO - [2022-01-29 21:08:43,638] {dag.py:2935} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-01-29T17:08:43.638448+00:00
+[2022-01-29 21:08:43,646] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.086 seconds
+[2022-01-29 21:10:23,808] {processor.py:163} INFO - Started process (PID=2983) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:10:23,816] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2022-01-29 21:10:23,817] {logging_mixin.py:109} INFO - [2022-01-29 21:10:23,817] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:10:23,862] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:10:23,885] {logging_mixin.py:109} INFO - [2022-01-29 21:10:23,884] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:10:23,895] {logging_mixin.py:109} INFO - [2022-01-29 21:10:23,895] {dag.py:2935} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-01-29T17:10:23.895110+00:00
+[2022-01-29 21:10:23,903] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.096 seconds
+[2022-01-29 21:12:48,834] {processor.py:163} INFO - Started process (PID=3063) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:12:48,835] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2022-01-29 21:12:48,836] {logging_mixin.py:109} INFO - [2022-01-29 21:12:48,836] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:12:48,872] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:12:48,897] {logging_mixin.py:109} INFO - [2022-01-29 21:12:48,896] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:12:48,917] {logging_mixin.py:109} INFO - [2022-01-29 21:12:48,917] {dag.py:2935} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-01-29T17:12:48.917077+00:00
+[2022-01-29 21:12:48,934] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.100 seconds
+[2022-01-29 21:15:44,551] {processor.py:163} INFO - Started process (PID=3129) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:15:44,560] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2022-01-29 21:15:44,562] {logging_mixin.py:109} INFO - [2022-01-29 21:15:44,561] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:15:44,610] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-01-29 21:15:44,636] {logging_mixin.py:109} INFO - [2022-01-29 21:15:44,635] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:15:44,649] {logging_mixin.py:109} INFO - [2022-01-29 21:15:44,649] {dag.py:2935} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-01-29T17:15:44.649584+00:00
+[2022-01-29 21:15:44,657] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.107 seconds

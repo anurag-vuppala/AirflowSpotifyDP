@@ -1,0 +1,28 @@
+[2022-01-29 21:08:39,497] {processor.py:163} INFO - Started process (PID=2947) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:08:39,497] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-01-29 21:08:39,498] {logging_mixin.py:109} INFO - [2022-01-29 21:08:39,498] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:08:39,589] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:08:39,609] {logging_mixin.py:109} INFO - [2022-01-29 21:08:39,609] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:08:39,620] {logging_mixin.py:109} INFO - [2022-01-29 21:08:39,620] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:08:39,627] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.131 seconds
+[2022-01-29 21:10:20,551] {processor.py:163} INFO - Started process (PID=2982) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:10:20,560] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-01-29 21:10:20,562] {logging_mixin.py:109} INFO - [2022-01-29 21:10:20,561] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:10:20,655] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:10:20,689] {logging_mixin.py:109} INFO - [2022-01-29 21:10:20,689] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:10:20,723] {logging_mixin.py:109} INFO - [2022-01-29 21:10:20,723] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:10:20,737] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.188 seconds
+[2022-01-29 21:12:44,873] {processor.py:163} INFO - Started process (PID=3062) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:12:44,874] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-01-29 21:12:44,875] {logging_mixin.py:109} INFO - [2022-01-29 21:12:44,875] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:12:44,922] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:12:44,941] {logging_mixin.py:109} INFO - [2022-01-29 21:12:44,940] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:12:44,950] {logging_mixin.py:109} INFO - [2022-01-29 21:12:44,950] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:12:44,957] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.085 seconds
+[2022-01-29 21:15:40,626] {processor.py:163} INFO - Started process (PID=3127) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:15:40,635] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-01-29 21:15:40,636] {logging_mixin.py:109} INFO - [2022-01-29 21:15:40,636] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:15:40,684] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-01-29 21:15:40,702] {logging_mixin.py:109} INFO - [2022-01-29 21:15:40,702] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:15:40,712] {logging_mixin.py:109} INFO - [2022-01-29 21:15:40,712] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:15:40,720] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.094 seconds

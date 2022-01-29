@@ -1,0 +1,28 @@
+[2022-01-29 21:08:59,534] {processor.py:163} INFO - Started process (PID=2953) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:08:59,535] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-29 21:08:59,535] {logging_mixin.py:109} INFO - [2022-01-29 21:08:59,535] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:08:59,576] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:08:59,603] {logging_mixin.py:109} INFO - [2022-01-29 21:08:59,603] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:08:59,611] {logging_mixin.py:109} INFO - [2022-01-29 21:08:59,611] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-29 21:08:59,619] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2022-01-29 21:11:29,426] {processor.py:163} INFO - Started process (PID=3034) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:11:29,435] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-29 21:11:29,436] {logging_mixin.py:109} INFO - [2022-01-29 21:11:29,436] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:11:29,480] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:11:29,505] {logging_mixin.py:109} INFO - [2022-01-29 21:11:29,504] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:11:29,513] {logging_mixin.py:109} INFO - [2022-01-29 21:11:29,513] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-29 21:11:29,520] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2022-01-29 21:14:09,698] {processor.py:163} INFO - Started process (PID=3085) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:14:09,706] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-29 21:14:09,707] {logging_mixin.py:109} INFO - [2022-01-29 21:14:09,707] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:14:09,754] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:14:09,783] {logging_mixin.py:109} INFO - [2022-01-29 21:14:09,783] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:14:09,793] {logging_mixin.py:109} INFO - [2022-01-29 21:14:09,793] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-29 21:14:09,805] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-01-29 21:16:50,065] {processor.py:163} INFO - Started process (PID=3155) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:16:50,068] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-29 21:16:50,069] {logging_mixin.py:109} INFO - [2022-01-29 21:16:50,069] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:16:50,248] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-01-29 21:16:50,298] {logging_mixin.py:109} INFO - [2022-01-29 21:16:50,298] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:16:50,313] {logging_mixin.py:109} INFO - [2022-01-29 21:16:50,313] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-29 21:16:50,327] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.263 seconds

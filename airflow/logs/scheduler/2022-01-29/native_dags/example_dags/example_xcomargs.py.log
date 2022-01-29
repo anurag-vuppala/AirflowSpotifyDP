@@ -1,0 +1,64 @@
+[2022-01-29 21:07:46,183] {processor.py:163} INFO - Started process (PID=2918) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:07:46,183] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:07:46,184] {logging_mixin.py:109} INFO - [2022-01-29 21:07:46,184] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:07:46,244] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:07:46,519] {logging_mixin.py:109} INFO - [2022-01-29 21:07:46,517] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:07:46,547] {logging_mixin.py:109} INFO - [2022-01-29 21:07:46,547] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:07:46,547] {logging_mixin.py:109} INFO - [2022-01-29 21:07:46,547] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:07:46,573] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.390 seconds
+[2022-01-29 21:09:41,110] {processor.py:163} INFO - Started process (PID=2967) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:09:41,119] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:09:41,120] {logging_mixin.py:109} INFO - [2022-01-29 21:09:41,120] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:09:41,179] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:09:41,446] {logging_mixin.py:109} INFO - [2022-01-29 21:09:41,445] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:09:41,457] {logging_mixin.py:109} INFO - [2022-01-29 21:09:41,456] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:09:41,457] {logging_mixin.py:109} INFO - [2022-01-29 21:09:41,457] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:09:41,467] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.358 seconds
+[2022-01-29 21:10:53,872] {processor.py:163} INFO - Started process (PID=2998) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:10:53,880] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:10:53,881] {logging_mixin.py:109} INFO - [2022-01-29 21:10:53,881] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:10:53,954] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:10:54,213] {logging_mixin.py:109} INFO - [2022-01-29 21:10:54,213] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:10:54,225] {logging_mixin.py:109} INFO - [2022-01-29 21:10:54,224] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:10:54,225] {logging_mixin.py:109} INFO - [2022-01-29 21:10:54,225] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:10:54,247] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.376 seconds
+[2022-01-29 21:12:07,111] {processor.py:163} INFO - Started process (PID=3048) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:12:07,119] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:12:07,120] {logging_mixin.py:109} INFO - [2022-01-29 21:12:07,120] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:12:07,172] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:12:07,397] {logging_mixin.py:109} INFO - [2022-01-29 21:12:07,396] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:12:07,405] {logging_mixin.py:109} INFO - [2022-01-29 21:12:07,405] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:12:07,406] {logging_mixin.py:109} INFO - [2022-01-29 21:12:07,406] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:12:07,424] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.313 seconds
+[2022-01-29 21:13:21,308] {processor.py:163} INFO - Started process (PID=3074) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:13:21,318] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:13:21,319] {logging_mixin.py:109} INFO - [2022-01-29 21:13:21,319] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:13:21,405] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:13:21,653] {logging_mixin.py:109} INFO - [2022-01-29 21:13:21,652] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:13:21,662] {logging_mixin.py:109} INFO - [2022-01-29 21:13:21,662] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:13:21,663] {logging_mixin.py:109} INFO - [2022-01-29 21:13:21,663] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:13:21,682] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.375 seconds
+[2022-01-29 21:15:00,746] {processor.py:163} INFO - Started process (PID=3102) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:15:00,755] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:15:00,757] {logging_mixin.py:109} INFO - [2022-01-29 21:15:00,757] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:15:00,815] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:15:01,065] {logging_mixin.py:109} INFO - [2022-01-29 21:15:01,065] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:15:01,077] {logging_mixin.py:109} INFO - [2022-01-29 21:15:01,077] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:15:01,077] {logging_mixin.py:109} INFO - [2022-01-29 21:15:01,077] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:15:01,097] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.352 seconds
+[2022-01-29 21:16:17,568] {processor.py:163} INFO - Started process (PID=3145) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:16:17,568] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:16:17,569] {logging_mixin.py:109} INFO - [2022-01-29 21:16:17,569] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:16:17,637] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:16:18,049] {logging_mixin.py:109} INFO - [2022-01-29 21:16:18,049] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:16:18,060] {logging_mixin.py:109} INFO - [2022-01-29 21:16:18,060] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:16:18,060] {logging_mixin.py:109} INFO - [2022-01-29 21:16:18,060] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:16:18,070] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.504 seconds
+[2022-01-29 21:17:38,779] {processor.py:163} INFO - Started process (PID=3175) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:17:38,780] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-01-29 21:17:38,780] {logging_mixin.py:109} INFO - [2022-01-29 21:17:38,780] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:17:38,866] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-01-29 21:17:39,862] {logging_mixin.py:109} INFO - [2022-01-29 21:17:39,862] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-01-29 21:17:39,908] {logging_mixin.py:109} INFO - [2022-01-29 21:17:39,908] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-01-29 21:17:39,908] {logging_mixin.py:109} INFO - [2022-01-29 21:17:39,908] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-01-29 21:17:39,992] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 1.214 seconds

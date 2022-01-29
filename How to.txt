@@ -1,0 +1,11 @@
+Open the VM
+Run the file 
+
+
+Links 
+https://console.developers.google.com/apis/api/youtube.googleapis.com/credentials?authuser=5&project=dashbo-339520
+https://github.com/googleapis/google-api-python-client/blob/main/docs/start.md
+
+
+api key = AIzaSyBw89DTYxrWPJdH2mFE0WMDGITHRqFhJDI
+oauth key clint id = 536593674823-ktj211bf4e1rj2eeo4218mo9q6g8p53s.apps.googleusercontent.com

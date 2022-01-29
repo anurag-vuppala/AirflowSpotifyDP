@@ -1,0 +1,28 @@
+[2022-01-29 21:09:16,767] {processor.py:163} INFO - Started process (PID=2960) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:09:16,767] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-01-29 21:09:16,768] {logging_mixin.py:109} INFO - [2022-01-29 21:09:16,768] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:09:16,815] {processor.py:654} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:09:16,837] {logging_mixin.py:109} INFO - [2022-01-29 21:09:16,836] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:09:16,848] {logging_mixin.py:109} INFO - [2022-01-29 21:09:16,848] {dag.py:2935} INFO - Setting next_dagrun for example_bash_operator to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:09:16,855] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.089 seconds
+[2022-01-29 21:11:47,401] {processor.py:163} INFO - Started process (PID=3041) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:11:47,402] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-01-29 21:11:47,402] {logging_mixin.py:109} INFO - [2022-01-29 21:11:47,402] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:11:47,437] {processor.py:654} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:11:47,457] {logging_mixin.py:109} INFO - [2022-01-29 21:11:47,457] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:11:47,468] {logging_mixin.py:109} INFO - [2022-01-29 21:11:47,468] {dag.py:2935} INFO - Setting next_dagrun for example_bash_operator to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:11:47,475] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.075 seconds
+[2022-01-29 21:14:32,024] {processor.py:163} INFO - Started process (PID=3092) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:14:32,032] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-01-29 21:14:32,033] {logging_mixin.py:109} INFO - [2022-01-29 21:14:32,033] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:14:32,069] {processor.py:654} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:14:32,090] {logging_mixin.py:109} INFO - [2022-01-29 21:14:32,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:14:32,101] {logging_mixin.py:109} INFO - [2022-01-29 21:14:32,101] {dag.py:2935} INFO - Setting next_dagrun for example_bash_operator to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:14:32,108] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.084 seconds
+[2022-01-29 21:17:15,562] {processor.py:163} INFO - Started process (PID=3167) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:17:15,563] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-01-29 21:17:15,564] {logging_mixin.py:109} INFO - [2022-01-29 21:17:15,564] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:17:15,619] {processor.py:654} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-01-29 21:17:15,641] {logging_mixin.py:109} INFO - [2022-01-29 21:17:15,641] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:17:15,652] {logging_mixin.py:109} INFO - [2022-01-29 21:17:15,652] {dag.py:2935} INFO - Setting next_dagrun for example_bash_operator to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:17:15,659] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.098 seconds

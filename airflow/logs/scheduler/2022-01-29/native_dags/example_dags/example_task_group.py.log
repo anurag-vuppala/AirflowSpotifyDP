@@ -1,0 +1,49 @@
+[2022-01-29 21:08:12,693] {processor.py:163} INFO - Started process (PID=2935) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:08:12,694] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-01-29 21:08:12,694] {logging_mixin.py:109} INFO - [2022-01-29 21:08:12,694] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:08:12,737] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:08:12,771] {logging_mixin.py:109} INFO - [2022-01-29 21:08:12,770] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:08:12,788] {logging_mixin.py:109} INFO - [2022-01-29 21:08:12,788] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-01-28T21:08:12.787894+00:00
+[2022-01-29 21:08:12,802] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.109 seconds
+[2022-01-29 21:09:59,452] {processor.py:163} INFO - Started process (PID=2974) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:09:59,453] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-01-29 21:09:59,454] {logging_mixin.py:109} INFO - [2022-01-29 21:09:59,454] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:09:59,495] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:09:59,518] {logging_mixin.py:109} INFO - [2022-01-29 21:09:59,517] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:09:59,528] {logging_mixin.py:109} INFO - [2022-01-29 21:09:59,528] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-01-28T21:09:59.528215+00:00
+[2022-01-29 21:09:59,536] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.085 seconds
+[2022-01-29 21:12:23,849] {processor.py:163} INFO - Started process (PID=3055) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:12:23,859] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-01-29 21:12:23,860] {logging_mixin.py:109} INFO - [2022-01-29 21:12:23,859] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:12:23,896] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:12:23,916] {logging_mixin.py:109} INFO - [2022-01-29 21:12:23,916] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:12:23,925] {logging_mixin.py:109} INFO - [2022-01-29 21:12:23,925] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-01-28T21:12:23.924978+00:00
+[2022-01-29 21:12:23,932] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.083 seconds
+[2022-01-29 21:13:49,616] {processor.py:163} INFO - Started process (PID=3080) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:13:49,626] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-01-29 21:13:49,630] {logging_mixin.py:109} INFO - [2022-01-29 21:13:49,630] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:13:49,798] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:13:49,850] {logging_mixin.py:109} INFO - [2022-01-29 21:13:49,849] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:13:49,905] {logging_mixin.py:109} INFO - [2022-01-29 21:13:49,904] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-01-28T21:13:49.904627+00:00
+[2022-01-29 21:13:49,934] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.319 seconds
+[2022-01-29 21:15:19,532] {processor.py:163} INFO - Started process (PID=3113) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:15:19,541] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-01-29 21:15:19,542] {logging_mixin.py:109} INFO - [2022-01-29 21:15:19,542] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:15:19,581] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:15:19,601] {logging_mixin.py:109} INFO - [2022-01-29 21:15:19,601] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:15:19,610] {logging_mixin.py:109} INFO - [2022-01-29 21:15:19,610] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-01-28T21:15:19.610629+00:00
+[2022-01-29 21:15:19,618] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.086 seconds
+[2022-01-29 21:16:36,093] {processor.py:163} INFO - Started process (PID=3151) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:16:36,102] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-01-29 21:16:36,103] {logging_mixin.py:109} INFO - [2022-01-29 21:16:36,103] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:16:36,152] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:16:36,175] {logging_mixin.py:109} INFO - [2022-01-29 21:16:36,175] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:16:36,185] {logging_mixin.py:109} INFO - [2022-01-29 21:16:36,185] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-01-28T21:16:36.185085+00:00
+[2022-01-29 21:16:36,195] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.103 seconds
+[2022-01-29 21:18:03,980] {processor.py:163} INFO - Started process (PID=3183) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:18:03,988] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-01-29 21:18:03,989] {logging_mixin.py:109} INFO - [2022-01-29 21:18:03,989] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:18:04,028] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-01-29 21:18:04,050] {logging_mixin.py:109} INFO - [2022-01-29 21:18:04,050] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:18:04,060] {logging_mixin.py:109} INFO - [2022-01-29 21:18:04,060] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-01-28T21:18:04.060489+00:00
+[2022-01-29 21:18:04,069] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.090 seconds

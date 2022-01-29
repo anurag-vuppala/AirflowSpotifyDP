@@ -1,0 +1,28 @@
+[2022-01-29 21:09:07,800] {processor.py:163} INFO - Started process (PID=2956) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:09:07,800] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-29 21:09:07,801] {logging_mixin.py:109} INFO - [2022-01-29 21:09:07,801] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:09:07,843] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:09:07,861] {logging_mixin.py:109} INFO - [2022-01-29 21:09:07,861] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:09:07,871] {logging_mixin.py:109} INFO - [2022-01-29 21:09:07,871] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:09:07,878] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.079 seconds
+[2022-01-29 21:11:37,620] {processor.py:163} INFO - Started process (PID=3037) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:11:37,621] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-29 21:11:37,622] {logging_mixin.py:109} INFO - [2022-01-29 21:11:37,622] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:11:37,692] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:11:37,735] {logging_mixin.py:109} INFO - [2022-01-29 21:11:37,734] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:11:37,755] {logging_mixin.py:109} INFO - [2022-01-29 21:11:37,754] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:11:37,774] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.155 seconds
+[2022-01-29 21:14:21,184] {processor.py:163} INFO - Started process (PID=3089) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:14:21,185] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-29 21:14:21,185] {logging_mixin.py:109} INFO - [2022-01-29 21:14:21,185] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:14:21,221] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:14:21,241] {logging_mixin.py:109} INFO - [2022-01-29 21:14:21,241] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:14:21,252] {logging_mixin.py:109} INFO - [2022-01-29 21:14:21,251] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:14:21,259] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.076 seconds
+[2022-01-29 21:17:05,470] {processor.py:163} INFO - Started process (PID=3161) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:17:05,479] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-29 21:17:05,480] {logging_mixin.py:109} INFO - [2022-01-29 21:17:05,480] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:17:05,529] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-29 21:17:05,557] {logging_mixin.py:109} INFO - [2022-01-29 21:17:05,556] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:17:05,568] {logging_mixin.py:109} INFO - [2022-01-29 21:17:05,568] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-28 00:00:00+00:00
+[2022-01-29 21:17:05,577] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.109 seconds

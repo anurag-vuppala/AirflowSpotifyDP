@@ -1,0 +1,56 @@
+[2022-01-29 21:08:05,429] {processor.py:163} INFO - Started process (PID=2928) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:08:05,429] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:08:05,430] {logging_mixin.py:109} INFO - [2022-01-29 21:08:05,430] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:08:05,468] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:08:05,539] {logging_mixin.py:109} INFO - [2022-01-29 21:08:05,537] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:08:05,575] {logging_mixin.py:109} INFO - [2022-01-29 21:08:05,575] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:08:05,609] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.181 seconds
+[2022-01-29 21:09:53,263] {processor.py:163} INFO - Started process (PID=2972) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:09:53,264] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:09:53,265] {logging_mixin.py:109} INFO - [2022-01-29 21:09:53,265] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:09:53,303] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:09:53,322] {logging_mixin.py:109} INFO - [2022-01-29 21:09:53,322] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:09:53,331] {logging_mixin.py:109} INFO - [2022-01-29 21:09:53,331] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:09:53,339] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.077 seconds
+[2022-01-29 21:11:07,251] {processor.py:163} INFO - Started process (PID=3013) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:11:07,259] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:11:07,260] {logging_mixin.py:109} INFO - [2022-01-29 21:11:07,260] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:11:07,299] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:11:07,317] {logging_mixin.py:109} INFO - [2022-01-29 21:11:07,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:11:07,326] {logging_mixin.py:109} INFO - [2022-01-29 21:11:07,326] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:11:07,335] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.085 seconds
+[2022-01-29 21:12:18,983] {processor.py:163} INFO - Started process (PID=3053) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:12:18,992] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:12:18,993] {logging_mixin.py:109} INFO - [2022-01-29 21:12:18,993] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:12:19,027] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:12:19,045] {logging_mixin.py:109} INFO - [2022-01-29 21:12:19,045] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:12:19,054] {logging_mixin.py:109} INFO - [2022-01-29 21:12:19,054] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:12:19,061] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.078 seconds
+[2022-01-29 21:13:39,196] {processor.py:163} INFO - Started process (PID=3078) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:13:39,197] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:13:39,199] {logging_mixin.py:109} INFO - [2022-01-29 21:13:39,198] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:13:39,246] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:13:39,270] {logging_mixin.py:109} INFO - [2022-01-29 21:13:39,270] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:13:39,279] {logging_mixin.py:109} INFO - [2022-01-29 21:13:39,279] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:13:39,292] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.096 seconds
+[2022-01-29 21:15:13,186] {processor.py:163} INFO - Started process (PID=3107) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:15:13,187] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:15:13,188] {logging_mixin.py:109} INFO - [2022-01-29 21:15:13,188] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:15:13,224] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:15:13,242] {logging_mixin.py:109} INFO - [2022-01-29 21:15:13,242] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:15:13,251] {logging_mixin.py:109} INFO - [2022-01-29 21:15:13,251] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:15:13,260] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.075 seconds
+[2022-01-29 21:16:29,049] {processor.py:163} INFO - Started process (PID=3149) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:16:29,058] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:16:29,058] {logging_mixin.py:109} INFO - [2022-01-29 21:16:29,058] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:16:29,093] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:16:29,112] {logging_mixin.py:109} INFO - [2022-01-29 21:16:29,112] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:16:29,121] {logging_mixin.py:109} INFO - [2022-01-29 21:16:29,120] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:16:29,128] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.079 seconds
+[2022-01-29 21:17:56,562] {processor.py:163} INFO - Started process (PID=3181) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:17:56,570] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-01-29 21:17:56,571] {logging_mixin.py:109} INFO - [2022-01-29 21:17:56,571] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:17:56,606] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-01-29 21:17:56,624] {logging_mixin.py:109} INFO - [2022-01-29 21:17:56,624] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:17:56,633] {logging_mixin.py:109} INFO - [2022-01-29 21:17:56,633] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-01-29 21:17:56,640] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.079 seconds

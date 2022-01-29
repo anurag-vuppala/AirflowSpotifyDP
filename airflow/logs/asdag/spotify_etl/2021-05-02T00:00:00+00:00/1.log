@@ -1,0 +1,24 @@
+[2022-01-29 21:52:06,795] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: asdag.spotify_etl scheduled__2021-05-02T00:00:00+00:00 [queued]>
+[2022-01-29 21:52:06,803] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: asdag.spotify_etl scheduled__2021-05-02T00:00:00+00:00 [queued]>
+[2022-01-29 21:52:06,803] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-29 21:52:06,803] {taskinstance.py:1239} INFO - Starting attempt 1 of 2
+[2022-01-29 21:52:06,803] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-29 21:52:06,812] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): spotify_etl> on 2021-05-02 00:00:00+00:00
+[2022-01-29 21:52:06,814] {standard_task_runner.py:52} INFO - Started process 4462 to run task
+[2022-01-29 21:52:06,819] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'asdag', 'spotify_etl', 'scheduled__2021-05-02T00:00:00+00:00', '--job-id', '464', '--raw', '--subdir', 'DAGS_FOLDER/sdag.py', '--cfg-path', '/var/folders/nx/v6d0bskn22s742wqx2vwc_rm0000gn/T/tmp1yw7a0x8', '--error-file', '/var/folders/nx/v6d0bskn22s742wqx2vwc_rm0000gn/T/tmp2d1_apm8']
+[2022-01-29 21:52:06,821] {standard_task_runner.py:77} INFO - Job 464: Subtask spotify_etl
+[2022-01-29 21:52:06,864] {logging_mixin.py:109} INFO - Running <TaskInstance: asdag.spotify_etl scheduled__2021-05-02T00:00:00+00:00 [running]> on host Anurags-MacBook-Pro.local
+[2022-01-29 21:52:06,904] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=asdag
+AIRFLOW_CTX_TASK_ID=spotify_etl
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-02T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-02T00:00:00+00:00
+[2022-01-29 21:52:06,905] {logging_mixin.py:109} INFO - Showing  something
+[2022-01-29 21:52:06,906] {python.py:175} INFO - Done. Returned value was: None
+[2022-01-29 21:52:06,911] {taskinstance.py:1267} INFO - Marking task as SUCCESS. dag_id=asdag, task_id=spotify_etl, execution_date=20210502T000000, start_date=20220129T215206, end_date=20220129T215206
+[2022-01-29 21:52:06,930] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-29 21:52:06,948] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,56 @@
+[2022-01-29 21:08:09,119] {processor.py:163} INFO - Started process (PID=2932) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:08:09,119] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:08:09,120] {logging_mixin.py:109} INFO - [2022-01-29 21:08:09,120] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:08:09,194] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:08:09,600] {logging_mixin.py:109} INFO - [2022-01-29 21:08:09,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:08:09,609] {logging_mixin.py:109} INFO - [2022-01-29 21:08:09,608] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:08:09.608730+00:00
+[2022-01-29 21:08:09,617] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.499 seconds
+[2022-01-29 21:09:56,065] {processor.py:163} INFO - Started process (PID=2973) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:09:56,066] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:09:56,067] {logging_mixin.py:109} INFO - [2022-01-29 21:09:56,066] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:09:56,129] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:09:56,548] {logging_mixin.py:109} INFO - [2022-01-29 21:09:56,547] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:09:56,558] {logging_mixin.py:109} INFO - [2022-01-29 21:09:56,558] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:09:56.558374+00:00
+[2022-01-29 21:09:56,571] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.507 seconds
+[2022-01-29 21:11:11,152] {processor.py:163} INFO - Started process (PID=3014) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:11:11,161] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:11:11,162] {logging_mixin.py:109} INFO - [2022-01-29 21:11:11,162] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:11:11,233] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:11:11,515] {logging_mixin.py:109} INFO - [2022-01-29 21:11:11,515] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:11:11,525] {logging_mixin.py:109} INFO - [2022-01-29 21:11:11,524] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:11:11.524767+00:00
+[2022-01-29 21:11:11,548] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.396 seconds
+[2022-01-29 21:12:21,676] {processor.py:163} INFO - Started process (PID=3054) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:12:21,676] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:12:21,677] {logging_mixin.py:109} INFO - [2022-01-29 21:12:21,677] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:12:21,740] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:12:21,968] {logging_mixin.py:109} INFO - [2022-01-29 21:12:21,968] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:12:21,977] {logging_mixin.py:109} INFO - [2022-01-29 21:12:21,977] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:12:21.977007+00:00
+[2022-01-29 21:12:21,996] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.321 seconds
+[2022-01-29 21:13:43,520] {processor.py:163} INFO - Started process (PID=3079) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:13:43,530] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:13:43,531] {logging_mixin.py:109} INFO - [2022-01-29 21:13:43,531] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:13:43,850] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:13:45,064] {logging_mixin.py:109} INFO - [2022-01-29 21:13:45,063] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:13:45,092] {logging_mixin.py:109} INFO - [2022-01-29 21:13:45,090] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:13:45.089876+00:00
+[2022-01-29 21:13:45,182] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.662 seconds
+[2022-01-29 21:15:16,229] {processor.py:163} INFO - Started process (PID=3109) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:15:16,230] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:15:16,231] {logging_mixin.py:109} INFO - [2022-01-29 21:15:16,231] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:15:16,295] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:15:16,708] {logging_mixin.py:109} INFO - [2022-01-29 21:15:16,708] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:15:16,717] {logging_mixin.py:109} INFO - [2022-01-29 21:15:16,717] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:15:16.717092+00:00
+[2022-01-29 21:15:16,726] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.498 seconds
+[2022-01-29 21:16:31,835] {processor.py:163} INFO - Started process (PID=3150) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:16:31,836] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:16:31,836] {logging_mixin.py:109} INFO - [2022-01-29 21:16:31,836] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:16:31,896] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:16:32,335] {logging_mixin.py:109} INFO - [2022-01-29 21:16:32,335] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:16:32,344] {logging_mixin.py:109} INFO - [2022-01-29 21:16:32,344] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:16:32.344164+00:00
+[2022-01-29 21:16:32,355] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.521 seconds
+[2022-01-29 21:18:00,554] {processor.py:163} INFO - Started process (PID=3182) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:18:00,555] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2022-01-29 21:18:00,556] {logging_mixin.py:109} INFO - [2022-01-29 21:18:00,556] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:18:00,628] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2022-01-29 21:18:00,884] {logging_mixin.py:109} INFO - [2022-01-29 21:18:00,884] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:18:00,893] {logging_mixin.py:109} INFO - [2022-01-29 21:18:00,893] {dag.py:2935} INFO - Setting next_dagrun for example_task_group_decorator to 2022-01-28T21:18:00.893682+00:00
+[2022-01-29 21:18:00,916] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.363 seconds

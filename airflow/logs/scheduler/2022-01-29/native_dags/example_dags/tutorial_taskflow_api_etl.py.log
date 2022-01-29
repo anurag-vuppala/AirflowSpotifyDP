@@ -1,0 +1,56 @@
+[2022-01-29 21:07:35,627] {processor.py:163} INFO - Started process (PID=2913) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:07:35,628] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:07:35,628] {logging_mixin.py:109} INFO - [2022-01-29 21:07:35,628] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:07:35,673] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:07:35,900] {logging_mixin.py:109} INFO - [2022-01-29 21:07:35,899] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:07:35,908] {logging_mixin.py:109} INFO - [2022-01-29 21:07:35,908] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:07:35,916] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.290 seconds
+[2022-01-29 21:09:31,237] {processor.py:163} INFO - Started process (PID=2964) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:09:31,246] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:09:31,247] {logging_mixin.py:109} INFO - [2022-01-29 21:09:31,247] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:09:31,308] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:09:31,594] {logging_mixin.py:109} INFO - [2022-01-29 21:09:31,594] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:09:31,605] {logging_mixin.py:109} INFO - [2022-01-29 21:09:31,604] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:09:31,626] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.389 seconds
+[2022-01-29 21:10:43,021] {processor.py:163} INFO - Started process (PID=2990) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:10:43,030] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:10:43,031] {logging_mixin.py:109} INFO - [2022-01-29 21:10:43,031] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:10:43,192] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:10:44,176] {logging_mixin.py:109} INFO - [2022-01-29 21:10:44,176] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:10:44,204] {logging_mixin.py:109} INFO - [2022-01-29 21:10:44,204] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:10:44,234] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 1.214 seconds
+[2022-01-29 21:11:58,494] {processor.py:163} INFO - Started process (PID=3045) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:11:58,503] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:11:58,505] {logging_mixin.py:109} INFO - [2022-01-29 21:11:58,505] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:11:58,571] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:11:58,820] {logging_mixin.py:109} INFO - [2022-01-29 21:11:58,820] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:11:58,834] {logging_mixin.py:109} INFO - [2022-01-29 21:11:58,834] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:11:58,856] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.362 seconds
+[2022-01-29 21:13:10,628] {processor.py:163} INFO - Started process (PID=3070) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:13:10,637] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:13:10,639] {logging_mixin.py:109} INFO - [2022-01-29 21:13:10,638] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:13:10,696] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:13:10,983] {logging_mixin.py:109} INFO - [2022-01-29 21:13:10,982] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:13:10,992] {logging_mixin.py:109} INFO - [2022-01-29 21:13:10,992] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:13:11,000] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.373 seconds
+[2022-01-29 21:14:50,058] {processor.py:163} INFO - Started process (PID=3099) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:14:50,061] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:14:50,065] {logging_mixin.py:109} INFO - [2022-01-29 21:14:50,064] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:14:50,335] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:14:51,084] {logging_mixin.py:109} INFO - [2022-01-29 21:14:51,084] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:14:51,097] {logging_mixin.py:109} INFO - [2022-01-29 21:14:51,097] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:14:51,115] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 1.060 seconds
+[2022-01-29 21:16:06,131] {processor.py:163} INFO - Started process (PID=3137) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:16:06,132] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:16:06,133] {logging_mixin.py:109} INFO - [2022-01-29 21:16:06,133] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:16:06,185] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:16:06,435] {logging_mixin.py:109} INFO - [2022-01-29 21:16:06,435] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:16:06,445] {logging_mixin.py:109} INFO - [2022-01-29 21:16:06,445] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:16:06,464] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.334 seconds
+[2022-01-29 21:17:28,557] {processor.py:163} INFO - Started process (PID=3172) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:17:28,566] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-01-29 21:17:28,567] {logging_mixin.py:109} INFO - [2022-01-29 21:17:28,566] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:17:28,661] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-01-29 21:17:29,169] {logging_mixin.py:109} INFO - [2022-01-29 21:17:29,168] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:17:29,247] {logging_mixin.py:109} INFO - [2022-01-29 21:17:29,247] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-01-29 21:17:29,311] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.755 seconds

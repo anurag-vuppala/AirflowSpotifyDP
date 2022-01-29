@@ -1,0 +1,56 @@
+[2022-01-29 21:07:43,262] {processor.py:163} INFO - Started process (PID=2916) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:07:43,263] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:07:43,263] {logging_mixin.py:109} INFO - [2022-01-29 21:07:43,263] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:07:43,311] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:07:43,333] {logging_mixin.py:109} INFO - [2022-01-29 21:07:43,332] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:07:43,343] {logging_mixin.py:109} INFO - [2022-01-29 21:07:43,343] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:07:43.343445+00:00
+[2022-01-29 21:07:43,351] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2022-01-29 21:09:37,863] {processor.py:163} INFO - Started process (PID=2966) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:09:37,871] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:09:37,873] {logging_mixin.py:109} INFO - [2022-01-29 21:09:37,873] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:09:37,925] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:09:37,950] {logging_mixin.py:109} INFO - [2022-01-29 21:09:37,950] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:09:37,965] {logging_mixin.py:109} INFO - [2022-01-29 21:09:37,965] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:09:37.964863+00:00
+[2022-01-29 21:09:37,976] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2022-01-29 21:10:50,907] {processor.py:163} INFO - Started process (PID=2997) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:10:50,915] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:10:50,916] {logging_mixin.py:109} INFO - [2022-01-29 21:10:50,916] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:10:50,954] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:10:50,976] {logging_mixin.py:109} INFO - [2022-01-29 21:10:50,975] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:10:50,985] {logging_mixin.py:109} INFO - [2022-01-29 21:10:50,984] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:10:50.984837+00:00
+[2022-01-29 21:10:50,992] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.085 seconds
+[2022-01-29 21:12:04,433] {processor.py:163} INFO - Started process (PID=3047) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:12:04,434] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:12:04,434] {logging_mixin.py:109} INFO - [2022-01-29 21:12:04,434] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:12:04,467] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:12:04,485] {logging_mixin.py:109} INFO - [2022-01-29 21:12:04,485] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:12:04,494] {logging_mixin.py:109} INFO - [2022-01-29 21:12:04,494] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:12:04.494487+00:00
+[2022-01-29 21:12:04,501] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2022-01-29 21:13:18,344] {processor.py:163} INFO - Started process (PID=3073) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:13:18,345] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:13:18,346] {logging_mixin.py:109} INFO - [2022-01-29 21:13:18,346] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:13:18,383] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:13:18,402] {logging_mixin.py:109} INFO - [2022-01-29 21:13:18,402] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:13:18,411] {logging_mixin.py:109} INFO - [2022-01-29 21:13:18,411] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:13:18.411108+00:00
+[2022-01-29 21:13:18,418] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2022-01-29 21:14:57,514] {processor.py:163} INFO - Started process (PID=3101) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:14:57,522] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:14:57,523] {logging_mixin.py:109} INFO - [2022-01-29 21:14:57,523] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:14:57,565] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:14:57,585] {logging_mixin.py:109} INFO - [2022-01-29 21:14:57,584] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:14:57,594] {logging_mixin.py:109} INFO - [2022-01-29 21:14:57,594] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:14:57.593850+00:00
+[2022-01-29 21:14:57,601] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.088 seconds
+[2022-01-29 21:16:12,492] {processor.py:163} INFO - Started process (PID=3139) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:16:12,493] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:16:12,494] {logging_mixin.py:109} INFO - [2022-01-29 21:16:12,494] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:16:12,821] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:16:12,924] {logging_mixin.py:109} INFO - [2022-01-29 21:16:12,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:16:12,994] {logging_mixin.py:109} INFO - [2022-01-29 21:16:12,993] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:16:12.991918+00:00
+[2022-01-29 21:16:13,014] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.523 seconds
+[2022-01-29 21:17:35,258] {processor.py:163} INFO - Started process (PID=3174) to work on /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:17:35,266] {processor.py:642} INFO - Processing file /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-29 21:17:35,267] {logging_mixin.py:109} INFO - [2022-01-29 21:17:35,267] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:17:35,305] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2022-01-29 21:17:35,324] {logging_mixin.py:109} INFO - [2022-01-29 21:17:35,323] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-29 21:17:35,333] {logging_mixin.py:109} INFO - [2022-01-29 21:17:35,333] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-28T21:17:35.333526+00:00
+[2022-01-29 21:17:35,341] {processor.py:171} INFO - Processing /Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
