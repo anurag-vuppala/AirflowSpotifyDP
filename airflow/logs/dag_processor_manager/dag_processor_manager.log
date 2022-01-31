@@ -20507,3 +20507,469 @@ File Path                          PID    Runtime      # DAGs    # Errors  Last 
 [2022-01-31 00:12:24,378] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:07:24.378696+00:00
 [2022-01-31 00:12:34,499] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
 [2022-01-31 00:12:34,500] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:07:34.500036+00:00
+[2022-01-31 00:12:46,955] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.65s           2022-01-31T00:12:46
+================================================================================
+[2022-01-31 00:12:48,014] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:12:48,014] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:07:48.014756+00:00
+[2022-01-31 00:12:58,137] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:12:58,138] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:07:58.137984+00:00
+[2022-01-31 00:13:08,258] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:13:08,258] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:08:08.258702+00:00
+[2022-01-31 00:13:20,272] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.21s           2022-01-31T00:13:20
+================================================================================
+[2022-01-31 00:13:21,328] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:13:21,329] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:08:21.329294+00:00
+[2022-01-31 00:13:31,455] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:13:31,455] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:08:31.455439+00:00
+[2022-01-31 00:13:41,570] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:13:41,570] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:08:41.570512+00:00
+[2022-01-31 00:13:53,501] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.13s           2022-01-31T00:13:53
+================================================================================
+[2022-01-31 00:13:54,555] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:13:54,555] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:08:54.555738+00:00
+[2022-01-31 00:14:04,670] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:14:04,670] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:09:04.670280+00:00
+[2022-01-31 00:14:14,792] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:14:14,793] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:09:14.793184+00:00
+[2022-01-31 00:14:26,590] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.99s           2022-01-31T00:14:26
+================================================================================
+[2022-01-31 00:14:27,650] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:14:27,650] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:09:27.650444+00:00
+[2022-01-31 00:14:37,768] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:14:37,768] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:09:37.768570+00:00
+[2022-01-31 00:14:47,894] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:14:47,894] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:09:47.894894+00:00
+[2022-01-31 00:14:59,799] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.10s           2022-01-31T00:14:59
+================================================================================
+[2022-01-31 00:15:00,861] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:15:00,861] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:10:00.861477+00:00
+[2022-01-31 00:15:10,987] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:15:10,987] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:10:10.987717+00:00
+[2022-01-31 00:15:21,093] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:15:21,093] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:10:21.093948+00:00
+[2022-01-31 00:15:32,945] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.04s           2022-01-31T00:15:32
+================================================================================
+[2022-01-31 00:15:34,006] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:15:34,006] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:10:34.006956+00:00
+[2022-01-31 00:15:44,131] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:15:44,132] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:10:44.132256+00:00
+[2022-01-31 00:15:54,242] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:15:54,242] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:10:54.242637+00:00
+[2022-01-31 00:16:05,087] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.04s           2022-01-31T00:16:05
+================================================================================
+[2022-01-31 00:16:06,147] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:16:06,148] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:11:06.148108+00:00
+[2022-01-31 00:16:16,271] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:16:16,271] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:11:16.271759+00:00
+[2022-01-31 00:16:26,397] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:16:26,397] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:11:26.397279+00:00
+[2022-01-31 00:16:37,198] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.11s           2022-01-31T00:16:37
+================================================================================
+[2022-01-31 00:16:38,257] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:16:38,258] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:11:38.257994+00:00
+[2022-01-31 00:16:48,379] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:16:48,380] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:11:48.380161+00:00
+[2022-01-31 00:16:58,491] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:16:58,491] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:11:58.491862+00:00
+[2022-01-31 00:17:09,387] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.08s           2022-01-31T00:17:09
+================================================================================
+[2022-01-31 00:17:10,448] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:17:10,448] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:12:10.448592+00:00
+[2022-01-31 00:17:15,515] {manager.py:663} INFO - Searching for files in /Users/user/Youtubed/dags
+[2022-01-31 00:17:15,524] {manager.py:666} INFO - There are 1 files in /Users/user/Youtubed/dags
+[2022-01-31 00:17:20,564] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:17:20,564] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:12:20.564217+00:00
+[2022-01-31 00:17:30,675] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:17:30,675] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:12:30.675304+00:00
+[2022-01-31 00:17:41,499] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.01s           2022-01-31T00:17:41
+================================================================================
+[2022-01-31 00:17:42,558] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:17:42,558] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:12:42.558369+00:00
+[2022-01-31 00:17:52,674] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:17:52,674] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:12:52.674766+00:00
+[2022-01-31 00:18:02,796] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:18:02,796] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:13:02.796541+00:00
+[2022-01-31 00:18:13,604] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.00s           2022-01-31T00:18:13
+================================================================================
+[2022-01-31 00:18:14,661] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:18:14,661] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:13:14.661274+00:00
+[2022-01-31 00:18:24,783] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:18:24,783] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:13:24.783612+00:00
+[2022-01-31 00:18:34,898] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:18:34,898] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:13:34.898730+00:00
+[2022-01-31 00:18:47,060] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.35s           2022-01-31T00:18:47
+================================================================================
+[2022-01-31 00:18:48,116] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:18:48,117] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:13:48.116995+00:00
+[2022-01-31 00:18:58,234] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:18:58,234] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:13:58.234913+00:00
+[2022-01-31 00:19:08,367] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:19:08,367] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:14:08.367536+00:00
+[2022-01-31 00:19:20,441] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.28s           2022-01-31T00:19:20
+================================================================================
+[2022-01-31 00:19:21,499] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:19:21,499] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:14:21.499606+00:00
+[2022-01-31 00:19:31,629] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:19:31,630] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:14:31.630121+00:00
+[2022-01-31 00:19:41,761] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:19:41,762] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:14:41.762083+00:00
+[2022-01-31 00:19:53,526] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.98s           2022-01-31T00:19:53
+================================================================================
+[2022-01-31 00:19:54,585] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:19:54,585] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:14:54.585571+00:00
+[2022-01-31 00:20:04,716] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:20:04,717] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:15:04.717408+00:00
+[2022-01-31 00:20:14,864] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:20:14,864] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:15:14.864392+00:00
+[2022-01-31 00:20:26,391] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.75s           2022-01-31T00:20:26
+================================================================================
+[2022-01-31 00:20:27,452] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:20:27,453] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:15:27.453126+00:00
+[2022-01-31 00:20:37,572] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:20:37,580] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:15:37.580060+00:00
+[2022-01-31 00:20:47,710] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:20:47,710] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:15:47.710486+00:00
+[2022-01-31 00:20:59,371] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.86s           2022-01-31T00:20:59
+================================================================================
+[2022-01-31 00:21:00,431] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:21:00,432] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:16:00.432108+00:00
+[2022-01-31 00:21:10,558] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:21:10,559] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:16:10.559026+00:00
+[2022-01-31 00:21:20,687] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:21:20,687] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:16:20.687960+00:00
+[2022-01-31 00:21:32,695] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.21s           2022-01-31T00:21:32
+================================================================================
+[2022-01-31 00:21:33,773] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:21:33,774] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:16:33.774105+00:00
+[2022-01-31 00:21:43,894] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:21:43,894] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:16:43.894500+00:00
+[2022-01-31 00:21:54,029] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:21:54,029] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:16:54.029764+00:00
+[2022-01-31 00:22:06,000] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.17s           2022-01-31T00:22:05
+================================================================================
+[2022-01-31 00:22:07,056] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:22:07,056] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:17:07.056436+00:00
+[2022-01-31 00:22:16,135] {manager.py:663} INFO - Searching for files in /Users/user/Youtubed/dags
+[2022-01-31 00:22:16,147] {manager.py:666} INFO - There are 1 files in /Users/user/Youtubed/dags
+[2022-01-31 00:22:17,211] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:22:17,212] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:17:17.212193+00:00
+[2022-01-31 00:22:27,348] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:22:27,348] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:17:27.348779+00:00
+[2022-01-31 00:22:38,127] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.02s           2022-01-31T00:22:38
+================================================================================
+[2022-01-31 00:22:39,196] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:22:39,196] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:17:39.196846+00:00
+[2022-01-31 00:22:49,326] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:22:49,326] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:17:49.326229+00:00
+[2022-01-31 00:22:59,461] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:22:59,461] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:17:59.461295+00:00
+[2022-01-31 00:23:10,864] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.62s           2022-01-31T00:23:10
+================================================================================
+[2022-01-31 00:23:11,914] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:23:11,914] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:18:11.914433+00:00
+[2022-01-31 00:23:22,037] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:23:22,038] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:18:22.038425+00:00
+[2022-01-31 00:23:32,138] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:23:32,138] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:18:32.138471+00:00
+[2022-01-31 00:23:44,188] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.23s           2022-01-31T00:23:44
+================================================================================
+[2022-01-31 00:23:45,248] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:23:45,249] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:18:45.249075+00:00
+[2022-01-31 00:23:55,374] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:23:55,375] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:18:55.375324+00:00
+[2022-01-31 00:24:05,498] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:24:05,498] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:19:05.498867+00:00
+[2022-01-31 00:24:17,479] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.19s           2022-01-31T00:24:17
+================================================================================
+[2022-01-31 00:24:18,540] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:24:18,540] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:19:18.540727+00:00
+[2022-01-31 00:24:28,640] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:24:28,640] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:19:28.640676+00:00
+[2022-01-31 00:24:38,811] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:24:38,812] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:19:38.812256+00:00
+[2022-01-31 00:24:50,989] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.40s           2022-01-31T00:24:50
+================================================================================
+[2022-01-31 00:24:52,076] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:24:52,077] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:19:52.077096+00:00
+[2022-01-31 00:25:02,186] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:25:02,186] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:20:02.186615+00:00
+[2022-01-31 00:25:12,296] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:25:12,297] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:20:12.297100+00:00
+[2022-01-31 00:25:24,322] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.21s           2022-01-31T00:25:24
+================================================================================
+[2022-01-31 00:25:25,384] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:25:25,392] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:20:25.392876+00:00
+[2022-01-31 00:25:35,499] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:25:35,499] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:20:35.499543+00:00
+[2022-01-31 00:25:45,609] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:25:45,610] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:20:45.610075+00:00
+[2022-01-31 00:25:57,671] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.24s           2022-01-31T00:25:57
+================================================================================
+[2022-01-31 00:25:58,728] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:25:58,728] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:20:58.728487+00:00
+[2022-01-31 00:26:08,851] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:26:08,851] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:21:08.851776+00:00
+[2022-01-31 00:26:18,967] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:26:18,968] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:21:18.967998+00:00
+[2022-01-31 00:26:29,792] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.02s           2022-01-31T00:26:29
+================================================================================
+[2022-01-31 00:26:30,853] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:26:30,853] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:21:30.853241+00:00
+[2022-01-31 00:26:40,970] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:26:40,971] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:21:40.971029+00:00
+[2022-01-31 00:26:51,094] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:26:51,095] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:21:51.095095+00:00
+[2022-01-31 00:27:02,082] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.19s           2022-01-31T00:27:02
+================================================================================
+[2022-01-31 00:27:03,145] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:27:03,145] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:22:03.145818+00:00
+[2022-01-31 00:27:13,266] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:27:13,267] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:22:13.267058+00:00
+[2022-01-31 00:27:16,388] {manager.py:663} INFO - Searching for files in /Users/user/Youtubed/dags
+[2022-01-31 00:27:16,399] {manager.py:666} INFO - There are 1 files in /Users/user/Youtubed/dags
+[2022-01-31 00:27:23,392] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:27:23,392] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:22:23.392683+00:00
+[2022-01-31 00:27:34,677] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.49s           2022-01-31T00:27:34
+================================================================================
+[2022-01-31 00:27:35,735] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:27:35,735] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:22:35.735885+00:00
+[2022-01-31 00:27:45,846] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:27:45,846] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:22:45.846743+00:00
+[2022-01-31 00:27:55,973] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:27:55,981] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:22:55.981518+00:00
+[2022-01-31 00:28:08,189] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  3.41s           2022-01-31T00:28:08
+================================================================================
+[2022-01-31 00:28:09,266] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:28:09,266] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:23:09.266557+00:00
+[2022-01-31 00:28:19,388] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:28:19,388] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:23:19.388207+00:00
+[2022-01-31 00:28:29,514] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:28:29,515] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:23:29.515132+00:00
+[2022-01-31 00:28:40,446] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.13s           2022-01-31T00:28:40
+================================================================================
+[2022-01-31 00:28:41,503] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:28:41,503] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:23:41.503272+00:00
+[2022-01-31 00:28:51,628] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:28:51,628] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:23:51.628939+00:00
+[2022-01-31 00:29:01,758] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:29:01,758] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:24:01.758815+00:00
+[2022-01-31 00:29:12,764] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.21s           2022-01-31T00:29:12
+================================================================================
+[2022-01-31 00:29:13,830] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:29:13,830] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:24:13.830831+00:00
+[2022-01-31 00:29:23,955] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:29:23,956] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:24:23.956198+00:00
+[2022-01-31 00:29:34,078] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:29:34,079] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:24:34.079062+00:00
+[2022-01-31 00:29:44,970] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.10s           2022-01-31T00:29:44
+================================================================================
+[2022-01-31 00:29:46,024] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:29:46,025] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:24:46.025165+00:00
+[2022-01-31 00:29:56,136] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:29:56,136] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:24:56.136709+00:00
+[2022-01-31 00:30:06,243] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:30:06,244] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:25:06.244054+00:00
+[2022-01-31 00:30:17,334] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/user/Youtubed/dags/sdag.py                           1           0  2.26s           2022-01-31T00:30:17
+================================================================================
+[2022-01-31 00:30:18,393] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:30:18,394] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:25:18.394015+00:00
+[2022-01-31 00:30:28,528] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-01-31 00:30:28,529] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-01-31 00:25:28.529587+00:00
