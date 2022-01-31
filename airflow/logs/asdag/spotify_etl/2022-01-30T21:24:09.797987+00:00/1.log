@@ -1,0 +1,27 @@
+[2022-01-30 21:24:14,772] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: asdag.spotify_etl manual__2022-01-30T21:24:09.797987+00:00 [queued]>
+[2022-01-30 21:24:14,781] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: asdag.spotify_etl manual__2022-01-30T21:24:09.797987+00:00 [queued]>
+[2022-01-30 21:24:14,781] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-30 21:24:14,781] {taskinstance.py:1239} INFO - Starting attempt 1 of 2
+[2022-01-30 21:24:14,781] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-30 21:24:14,793] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): spotify_etl> on 2022-01-30 21:24:09.797987+00:00
+[2022-01-30 21:24:14,810] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'asdag', 'spotify_etl', 'manual__2022-01-30T21:24:09.797987+00:00', '--job-id', '760', '--raw', '--subdir', 'DAGS_FOLDER/sdag.py', '--cfg-path', '/var/folders/nx/v6d0bskn22s742wqx2vwc_rm0000gn/T/tmpp66dp4m1', '--error-file', '/var/folders/nx/v6d0bskn22s742wqx2vwc_rm0000gn/T/tmp9rvjy9b2']
+[2022-01-30 21:24:14,812] {standard_task_runner.py:77} INFO - Job 760: Subtask spotify_etl
+[2022-01-30 21:24:14,798] {standard_task_runner.py:52} INFO - Started process 25345 to run task
+[2022-01-30 21:24:14,895] {logging_mixin.py:109} INFO - Running <TaskInstance: asdag.spotify_etl manual__2022-01-30T21:24:09.797987+00:00 [running]> on host Anurags-MacBook-Pro.local
+[2022-01-30 21:24:14,946] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=asdag
+AIRFLOW_CTX_TASK_ID=spotify_etl
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-30T21:24:09.797987+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-01-30T21:24:09.797987+00:00
+[2022-01-30 21:24:15,036] {logging_mixin.py:109} INFO - {'items': [], 'next': None, 'cursors': None, 'limit': 20, 'href': 'https://api.spotify.com/v1/me/player/recently-played?after=1643491454000'}
+[2022-01-30 21:24:15,046] {logging_mixin.py:109} INFO - Opened database successfully
+[2022-01-30 21:24:15,047] {logging_mixin.py:109} INFO - Data already exists in the database
+[2022-01-30 21:24:15,047] {logging_mixin.py:109} INFO - Close database successfully
+[2022-01-30 21:24:15,048] {python.py:175} INFO - Done. Returned value was: None
+[2022-01-30 21:24:15,054] {taskinstance.py:1267} INFO - Marking task as SUCCESS. dag_id=asdag, task_id=spotify_etl, execution_date=20220130T212409, start_date=20220130T212414, end_date=20220130T212415
+[2022-01-30 21:24:15,092] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-30 21:24:15,124] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

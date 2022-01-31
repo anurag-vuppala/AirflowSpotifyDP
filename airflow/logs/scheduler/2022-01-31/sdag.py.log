@@ -1,0 +1,70 @@
+[2022-01-31 00:00:11,573] {processor.py:163} INFO - Started process (PID=32707) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:00:11,573] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:00:11,574] {logging_mixin.py:109} INFO - [2022-01-31 00:00:11,574] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:00:12,388] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:00:12,411] {logging_mixin.py:109} INFO - [2022-01-31 00:00:12,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:00:12,423] {logging_mixin.py:109} INFO - [2022-01-31 00:00:12,423] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:00:12,431] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.859 seconds
+[2022-01-31 00:00:44,405] {processor.py:163} INFO - Started process (PID=32761) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:00:44,405] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:00:44,405] {logging_mixin.py:109} INFO - [2022-01-31 00:00:44,405] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:00:44,779] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:00:44,796] {logging_mixin.py:109} INFO - [2022-01-31 00:00:44,796] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:00:44,807] {logging_mixin.py:109} INFO - [2022-01-31 00:00:44,807] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:00:44,825] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.421 seconds
+[2022-01-31 00:01:16,613] {processor.py:163} INFO - Started process (PID=32804) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:01:16,615] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:01:16,615] {logging_mixin.py:109} INFO - [2022-01-31 00:01:16,615] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:01:17,006] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:01:17,023] {logging_mixin.py:109} INFO - [2022-01-31 00:01:17,023] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:01:17,034] {logging_mixin.py:109} INFO - [2022-01-31 00:01:17,034] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:01:17,051] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.438 seconds
+[2022-01-31 00:01:48,826] {processor.py:163} INFO - Started process (PID=32842) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:01:48,826] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:01:48,826] {logging_mixin.py:109} INFO - [2022-01-31 00:01:48,826] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:01:49,618] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:01:49,639] {logging_mixin.py:109} INFO - [2022-01-31 00:01:49,639] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:01:49,650] {logging_mixin.py:109} INFO - [2022-01-31 00:01:49,650] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:01:49,657] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.832 seconds
+[2022-01-31 00:02:21,416] {processor.py:163} INFO - Started process (PID=32880) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:02:21,416] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:02:21,417] {logging_mixin.py:109} INFO - [2022-01-31 00:02:21,416] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:02:22,224] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:02:22,245] {logging_mixin.py:109} INFO - [2022-01-31 00:02:22,245] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:02:22,257] {logging_mixin.py:109} INFO - [2022-01-31 00:02:22,257] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:02:22,264] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.849 seconds
+[2022-01-31 00:02:54,188] {processor.py:163} INFO - Started process (PID=32923) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:02:54,189] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:02:54,189] {logging_mixin.py:109} INFO - [2022-01-31 00:02:54,189] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:02:54,997] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:02:55,017] {logging_mixin.py:109} INFO - [2022-01-31 00:02:55,017] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:02:55,028] {logging_mixin.py:109} INFO - [2022-01-31 00:02:55,028] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:02:55,036] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.849 seconds
+[2022-01-31 00:03:27,335] {processor.py:163} INFO - Started process (PID=32962) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:03:27,336] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:03:27,337] {logging_mixin.py:109} INFO - [2022-01-31 00:03:27,336] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:03:28,144] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:03:28,164] {logging_mixin.py:109} INFO - [2022-01-31 00:03:28,164] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:03:28,175] {logging_mixin.py:109} INFO - [2022-01-31 00:03:28,175] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:03:28,182] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.848 seconds
+[2022-01-31 00:03:59,903] {processor.py:163} INFO - Started process (PID=33002) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:03:59,903] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:03:59,904] {logging_mixin.py:109} INFO - [2022-01-31 00:03:59,904] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:04:00,304] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:04:00,325] {logging_mixin.py:109} INFO - [2022-01-31 00:04:00,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:04:00,343] {logging_mixin.py:109} INFO - [2022-01-31 00:04:00,343] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:04:00,353] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.451 seconds
+[2022-01-31 00:04:32,294] {processor.py:163} INFO - Started process (PID=33045) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:04:32,294] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:04:32,295] {logging_mixin.py:109} INFO - [2022-01-31 00:04:32,295] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:04:33,137] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:04:33,158] {logging_mixin.py:109} INFO - [2022-01-31 00:04:33,158] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:04:33,170] {logging_mixin.py:109} INFO - [2022-01-31 00:04:33,169] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:04:33,179] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.885 seconds
+[2022-01-31 00:05:05,999] {processor.py:163} INFO - Started process (PID=33118) to work on /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:05:06,000] {processor.py:642} INFO - Processing file /Users/user/Youtubed/dags/sdag.py for tasks to queue
+[2022-01-31 00:05:06,000] {logging_mixin.py:109} INFO - [2022-01-31 00:05:06,000] {dagbag.py:500} INFO - Filling up the DagBag from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:05:06,815] {processor.py:654} INFO - DAG(s) dict_keys(['asdag']) retrieved from /Users/user/Youtubed/dags/sdag.py
+[2022-01-31 00:05:06,835] {logging_mixin.py:109} INFO - [2022-01-31 00:05:06,835] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-31 00:05:06,847] {logging_mixin.py:109} INFO - [2022-01-31 00:05:06,847] {dag.py:2935} INFO - Setting next_dagrun for asdag to 2022-01-31T00:00:00+00:00
+[2022-01-31 00:05:06,854] {processor.py:171} INFO - Processing /Users/user/Youtubed/dags/sdag.py took 0.857 seconds

@@ -1,0 +1,66 @@
+[2022-01-30 21:08:02,872] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: asdag.spotify_etl manual__2022-01-30T21:07:57.030210+00:00 [queued]>
+[2022-01-30 21:08:02,881] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: asdag.spotify_etl manual__2022-01-30T21:07:57.030210+00:00 [queued]>
+[2022-01-30 21:08:02,881] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-30 21:08:02,881] {taskinstance.py:1239} INFO - Starting attempt 1 of 2
+[2022-01-30 21:08:02,881] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-30 21:08:02,896] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): spotify_etl> on 2022-01-30 21:07:57.030210+00:00
+[2022-01-30 21:08:02,898] {standard_task_runner.py:52} INFO - Started process 24311 to run task
+[2022-01-30 21:08:02,907] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'asdag', 'spotify_etl', 'manual__2022-01-30T21:07:57.030210+00:00', '--job-id', '756', '--raw', '--subdir', 'DAGS_FOLDER/sdag.py', '--cfg-path', '/var/folders/nx/v6d0bskn22s742wqx2vwc_rm0000gn/T/tmp_ggwactr', '--error-file', '/var/folders/nx/v6d0bskn22s742wqx2vwc_rm0000gn/T/tmpoizsd_tf']
+[2022-01-30 21:08:02,909] {standard_task_runner.py:77} INFO - Job 756: Subtask spotify_etl
+[2022-01-30 21:08:02,965] {logging_mixin.py:109} INFO - Running <TaskInstance: asdag.spotify_etl manual__2022-01-30T21:07:57.030210+00:00 [running]> on host anurags-macbook-pro.local
+[2022-01-30 21:08:03,024] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=asdag
+AIRFLOW_CTX_TASK_ID=spotify_etl
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-30T21:07:57.030210+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-01-30T21:07:57.030210+00:00
+[2022-01-30 21:08:03,197] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/user/Youtubed/dags/sdag.py", line 46, in spotify_etl_function
+    for song in data["items"]:
+KeyError: 'items'
+[2022-01-30 21:08:03,216] {taskinstance.py:1267} INFO - Marking task as UP_FOR_RETRY. dag_id=asdag, task_id=spotify_etl, execution_date=20220130T210757, start_date=20220130T210802, end_date=20220130T210803
+[2022-01-30 21:08:03,242] {standard_task_runner.py:89} ERROR - Failed to execute job 756 for task spotify_etl
+Traceback (most recent call last):
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/Users/user/Youtubed/YTVM/lib/python3.9/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/user/Youtubed/dags/sdag.py", line 46, in spotify_etl_function
+    for song in data["items"]:
+KeyError: 'items'
+[2022-01-30 21:08:03,276] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-01-30 21:08:03,314] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

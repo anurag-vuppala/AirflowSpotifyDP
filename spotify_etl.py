@@ -7,27 +7,26 @@ from datetime import datetime
 import datetime
 import sqlite3
 
- 
 
  
 # Generate your token here:  https://developer.spotify.com/console/get-recently-played/
 # Note: You need a Spotify account (can be easily created for free)
 
-# def check_if_valid_data(df: pd.DataFrame) -> bool:
-#     # Check if dataframe is empty
-#     if df.empty:
-#         print("No songs downloaded. Finishing execution")
-#         return False 
+def check_if_valid_data(df: pd.DataFrame) -> bool:
+    # Check if dataframe is empty
+    if df.empty:
+        print("No songs downloaded. Finishing execution")
+        return False 
 
-#     # Primary Key Check
-#     if pd.Series(df['played_at']).is_unique:
-#         pass
-#     else:
-#         raise Exception("Primary Key check is violated")
+    # Primary Key Check
+    if pd.Series(df['played_at']).is_unique:
+        pass
+    else:
+        raise Exception("Primary Key check is violated")
 
-#     # Check for nulls
-#     if df.isnull().values.any():
-#         raise Exception("Null values found")
+    # Check for nulls
+    if df.isnull().values.any():
+        raise Exception("Null values found")
 
 #     # Check that all timestamps are of yesterday's date
 #     yesterday = datetime.datetime.now() - datetime.timedelta(days=1)
@@ -42,11 +41,11 @@ import sqlite3
 
     
     
-def spotify_etl():
+def spotify_etl_function():
      # Extract part of the ETL process
      DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
      USER_ID =  	"31c46elir35wdgopjjfnkfilf4ba"       # your Spotify username 
-     TOKEN = "" # your Spotify API token
+     TOKEN = "BQCvHxZRlLgY8nTuf8jBS3HHYU-n1GZt53M-A2xy6QYxSife6YRyEXovKuHkuYN1smCKPri4Z02GeWQtm6HYERbdaf3V4GJ2P4X795yao4S8eusJl2wa8WDCXU-3VMrmC8fRoMKx_ZW1HsWeyfeYOM6EOw35OjR352uiRvMXNmDYEo8U" # your Spotify API token
  
      headers = {
         "Accept" : "application/json",
