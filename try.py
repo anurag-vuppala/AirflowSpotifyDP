@@ -10,7 +10,7 @@ import sqlite3
 
 DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
 USER_ID =  	"31c46elir35wdgopjjfnkfilf4ba"       # your Spotify username 
-TOKEN = "BQDjY7FIKj63Fu1cE1MYtx7glBxpfInvACRVvcV3glcrJyGzze8z7G9D1so7Hngw_NykRDzUVCCFJA4mjPQ2qPK7EZxx_5RPnkgjfUQSAU2Hr39GtNLH2GoKFVn5uvawOo2tW5x81vo1I3y98M2MGNpd4puztzz8p8Ezqx2Etr_c8lFE0EYq27iDbwGqwg" # your Spotify API token
+TOKEN = "BQCPXjcjdDSNISFHFQxZFG16bCLbcczzNowgabQsaFVeK6sNdd2PNE8ZHsBcQzV4z8w29olTW0uAv156deNjq_DSO3yF-d_cZ7MvjPG1FnJyM3Fec7XoFlkrPVAeB6AHA7O5bhkP1sEKkocZ6HUSrNwhcGZm8JVsgMfnfpehpT_CyWjrPVR9tGvl04ZwnQ" # your Spotify API token
  
 headers = {
     "Accept" : "application/json",
@@ -63,26 +63,26 @@ print(song_df)
 
 # Load
 
-engine = sqlalchemy.create_engine(DATABASE_LOCATION)
-conn = sqlite3.connect('my_played_tracks.sqlite')
-cursor = conn.cursor()
+# engine = sqlalchemy.create_engine(DATABASE_LOCATION)
+# conn = sqlite3.connect('my_played_tracks.sqlite')
+# cursor = conn.cursor()
 
-sql_query = """
-CREATE TABLE IF NOT EXISTS my_played_tracks(
-song_name VARCHAR(200),
-artist_name VARCHAR(200),
-added_at VARCHAR(200),
-CONSTRAINT primary_key_constraint PRIMARY KEY (aded_at)
-)
-"""
+# sql_query = """
+# CREATE TABLE IF NOT EXISTS my_played_tracks(
+# song_name VARCHAR(200),
+# artist_name VARCHAR(200),
+# added_at VARCHAR(200),
+# CONSTRAINT primary_key_constraint PRIMARY KEY (aded_at)
+# )
+# """
 
-cursor.execute(sql_query)
-print("Opened database successfully")
+# cursor.execute(sql_query)
+# print("Opened database successfully")
 
-try:
-    song_df.to_sql("my_played_tracks", engine, index=False, if_exists='append')
-except:
-    print("Data already exists in the database")
+# try:
+#     song_df.to_sql("my_played_tracks", engine, index=False, if_exists='append')
+# except:
+#     print("Data already exists in the database")
 
-conn.close()
-print("Close database successfully")
+# conn.close()
+# print("Close database successfully")

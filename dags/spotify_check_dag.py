@@ -18,7 +18,7 @@ import sqlite3
 def spotify_etl_function():
     DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
     USER_ID =  	"31c46elir35wdgopjjfnkfilf4ba"       # your Spotify username 
-    TOKEN = "BQDjY7FIKj63Fu1cE1MYtx7glBxpfInvACRVvcV3glcrJyGzze8z7G9D1so7Hngw_NykRDzUVCCFJA4mjPQ2qPK7EZxx_5RPnkgjfUQSAU2Hr39GtNLH2GoKFVn5uvawOo2tW5x81vo1I3y98M2MGNpd4puztzz8p8Ezqx2Etr_c8lFE0EYq27iDbwGqwg" # your Spotify API token
+    TOKEN = "BQCPXjcjdDSNISFHFQxZFG16bCLbcczzNowgabQsaFVeK6sNdd2PNE8ZHsBcQzV4z8w29olTW0uAv156deNjq_DSO3yF-d_cZ7MvjPG1FnJyM3Fec7XoFlkrPVAeB6AHA7O5bhkP1sEKkocZ6HUSrNwhcGZm8JVsgMfnfpehpT_CyWjrPVR9tGvl04ZwnQ" # your Spotify API token
     
     headers = {
         "Accept" : "application/json",
@@ -80,7 +80,7 @@ def spotify_etl_function():
     song_name VARCHAR(200),
     artist_name VARCHAR(200),
     added_at VARCHAR(200),
-    CONSTRAINT primary_key_constraint PRIMARY KEY (aded_at)
+    CONSTRAINT primary_key_constraint PRIMARY KEY (added_at)
     )
     """
 
@@ -90,7 +90,13 @@ def spotify_etl_function():
     try:
         song_df.to_sql("my_played_tracks", engine, index=False, if_exists='append')
     except:
+        sql = pd.read_sql('SELECT song_name FROM my_played_tracks',conn)
+        song_df = song_df[~song_df['song_name'].isin(sql['song_name'])]
+        song_df.to_sql("my_played_tracks", conn, index=False, if_exists='append')
+        
         print("Data already exists in the database")
+        print(" New Songs appended to the existing table")
+    
 
     conn.close()
     print("Close database successfully")
@@ -103,14 +109,14 @@ default_args = {
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 1,
-    'retry_delay': timedelta(minutes=1),
+    'retry_delay': timedelta(seconds=1),
 }
 
 dag = DAG(
-    'asdag',
+    'Spotify_Song_dag',
     default_args=default_args,
     description='A simple songs DAG',
-    schedule_interval=timedelta(days=1),
+    schedule_interval=timedelta(minutes=3),
     start_date=datetime(2022 , 1, 31),
     catchup = False,
     tags = ['example']
