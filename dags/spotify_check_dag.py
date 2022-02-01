@@ -18,7 +18,7 @@ import sqlite3
 def spotify_etl_function():
     DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
     USER_ID =  	"31c46elir35wdgopjjfnkfilf4ba"       # your Spotify username 
-    TOKEN = "BQCPXjcjdDSNISFHFQxZFG16bCLbcczzNowgabQsaFVeK6sNdd2PNE8ZHsBcQzV4z8w29olTW0uAv156deNjq_DSO3yF-d_cZ7MvjPG1FnJyM3Fec7XoFlkrPVAeB6AHA7O5bhkP1sEKkocZ6HUSrNwhcGZm8JVsgMfnfpehpT_CyWjrPVR9tGvl04ZwnQ" # your Spotify API token
+    TOKEN = "BQChomZsPreXEuQEPLqlMG88un4atgA2hMgo_DsFJBuYkU5iU811YHp3gSUDi6W_yPYAMgOIcAqup9hFjTQBA8Pw6DujTZirH8w7DnzOiCdOLspT2MO8JTzDaalt-KcgnjEDZoOQGwe_VyR9Nnh1lOVAHNXG_6XFO2HTW9R_QeKqIPE-lSr6B0VY-8V3fA" # your Spotify API token
     
     headers = {
         "Accept" : "application/json",
@@ -116,7 +116,7 @@ dag = DAG(
     'Spotify_Song_dag',
     default_args=default_args,
     description='A simple songs DAG',
-    schedule_interval=timedelta(minutes=3),
+    schedule_interval=timedelta(minutes=1),
     start_date=datetime(2022 , 1, 31),
     catchup = False,
     tags = ['example']
