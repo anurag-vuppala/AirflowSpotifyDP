@@ -3,7 +3,11 @@ from email.policy import default
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from airflow.utils.dates import days_ago
+import json
 
+cr = open('cr.json')
+crd = json.load(cr)
+print(crd['user_id'])
 
 
 
@@ -17,8 +21,8 @@ import sqlite3
 
 def spotify_etl_function():
     DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
-    USER_ID =  	"31c46elir35wdgopjjfnkfilf4ba"       # your Spotify username 
-    TOKEN = "BQChomZsPreXEuQEPLqlMG88un4atgA2hMgo_DsFJBuYkU5iU811YHp3gSUDi6W_yPYAMgOIcAqup9hFjTQBA8Pw6DujTZirH8w7DnzOiCdOLspT2MO8JTzDaalt-KcgnjEDZoOQGwe_VyR9Nnh1lOVAHNXG_6XFO2HTW9R_QeKqIPE-lSr6B0VY-8V3fA" # your Spotify API token
+    USER_ID =  	crd["user_id"]      # your Spotify username 
+    TOKEN = crd["spotify_api_key"] # your Spotify API token
     
     headers = {
         "Accept" : "application/json",
@@ -61,7 +65,7 @@ def spotify_etl_function():
 
     song_df = pd.DataFrame(song_dict, columns = ["song_name", "artist_name", "added_at"])
 
-
+    print("afskgsfiaufbkabfiaefoa")
     print(song_df)
 
 
