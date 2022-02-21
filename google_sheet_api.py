@@ -31,6 +31,9 @@
 from curses import raw
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
+import json
+
+from numpy import insert
 
 
 key = 'sheet_creds.json'
@@ -50,13 +53,27 @@ sheetid = '1bdPEicAieaus4AWU92_Ry11f4XMiYJSncJiWh42bd28'
 service = build('sheets','v4',credentials=creds)
 
 sheet = service.spreadsheets()
+# this is to get the values from the sheet
+result = sheet.values().get(spreadsheetId=sheetid, range="sheet1!A1:C5").execute()
 
-result = sheet.values().get(spreadsheetId=sheetid, range="sheet1!A1:C5")
 
-input_value = {1,"anurag", "vuppala"}
+# this is to update values in the sheet
 
-result = sheet.values().update(spreadsheetId=sheetid, range="sheet1!A1", valueInputOption='RAW', body = input_value)
-result = sheet.values().get(spreadsheetId=sheetid, range="sheet1!A1")
-data = result.execute()
+input_value = [[1,"anurag", "vuppala"],[2,"anushike","biskit"]]
 
-print(data)
+result = sheet.values().update(spreadsheetId=sheetid, range="sheet1!A1", valueInputOption='USER_ENTERED', body = {"values": input_value}).execute()
+print(result)
+
+########################
+
+#to append values to sheet
+append_data = [[3,"venkataswaramma","vuppla"]]
+
+apnd = sheet.values().append(spreadsheetId=sheetid, range="sheet1!A1",valueInputOption='USER_ENTERED', insertDataOption='INSERT_ROWS', body = {"values": append_data}).execute()
+
+
+print(result)
+#####################
+
+
+
