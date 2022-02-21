@@ -37,9 +37,7 @@ credentials = flow.run_console()
 youtube = googleapiclient.discovery.build(
         api_service_name, api_version, credentials=credentials)
 
-request = youtube.channels().list( part= 'statistics', id='UCkc_R-JFgFnlwzzJJ2AsqZA'
-        
-    )
+request = youtube.channels().list( part= 'statistics', id='UCkc_R-JFgFnlwzzJJ2AsqZA')
 response = request.execute()
 
 print(response)

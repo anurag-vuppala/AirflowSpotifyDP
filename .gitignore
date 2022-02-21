@@ -1,3 +1,4 @@
 cr.json
 __pycache__/
 logs/
+sheet_creds.json
