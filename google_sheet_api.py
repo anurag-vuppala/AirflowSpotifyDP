@@ -28,6 +28,7 @@
 
 
 
+from curses import raw
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
@@ -50,7 +51,12 @@ service = build('sheets','v4',credentials=creds)
 
 sheet = service.spreadsheets()
 
-result = sheet.values().get(spreadsheetId=sheetid, range="sheet1!A1:G12")
+result = sheet.values().get(spreadsheetId=sheetid, range="sheet1!A1:C5")
+
+input_value = {1,"anurag", "vuppala"}
+
+result = sheet.values().update(spreadsheetId=sheetid, range="sheet1!A1", valueInputOption='RAW', body = input_value)
+result = sheet.values().get(spreadsheetId=sheetid, range="sheet1!A1")
 data = result.execute()
 
 print(data)
