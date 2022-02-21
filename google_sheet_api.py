@@ -7,15 +7,18 @@ import sqlalchemy
 from numpy import insert
 
 
-def gett_data_from_database():
+
+    
+
+def update_data_to_sheet():
+    
+    sheet_name = 'spotify'
     DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
     engine = sqlalchemy.create_engine(DATABASE_LOCATION)
     conn = sqlite3.connect('my_played_tracks.sqlite')
     cur = conn.cursor()
     data = cur.execute("select * from my_played_tracks").fetchall()
-    return data
-
-def append_data_to_sheet(data,sheet_name):
+    
     key = 'sheet_creds.json'
     scope = ['https://www.googleapis.com/auth/drive',
             'https://www.googleapis.com/auth/drive.file',
@@ -29,15 +32,12 @@ def append_data_to_sheet(data,sheet_name):
     sheetid = '1bdPEicAieaus4AWU92_Ry11f4XMiYJSncJiWh42bd28'
     service = build('sheets','v4',credentials=creds)
     sheet = service.spreadsheets()
-    ranges = sheet_name + '!A1' 
-    apnd = sheet.values().append(spreadsheetId=sheetid, range=ranges,valueInputOption='USER_ENTERED', insertDataOption='INSERT_ROWS', body = {"values": data}).execute()
-    return apnd
+    ranges = sheet_name + '!A2' 
+    update_data = sheet.values().update(spreadsheetId=sheetid, range=ranges,valueInputOption='USER_ENTERED', body = {"values": data}).execute()
+    return update_data
 
 
-data = gett_data_from_database()
-sheet_name = "spotify"
-add = append_data_to_sheet(data,sheet_name)
-print(add)
+
 
 
 # key = 'sheet_creds.json'
@@ -77,7 +77,7 @@ print(add)
 
 
 
-print(gett_data_from_database())
+print(update_data_to_sheet())
     
 
 

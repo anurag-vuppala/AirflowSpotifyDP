@@ -4,7 +4,7 @@ from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from airflow.utils.dates import days_ago
 import json
-
+from google_sheet_api import update_data_to_sheet
 cr = open('cr.json')
 crd = json.load(cr)
 print(crd['user_id'])
@@ -103,6 +103,7 @@ def spotify_etl_function():
     
 
     conn.close()
+    print(update_data_to_sheet)
     print("Close database successfully")
 
 
@@ -120,7 +121,7 @@ dag = DAG(
     'Spotify_Song_dag',
     default_args=default_args,
     description='A simple songs DAG',
-    schedule_interval=timedelta(minutes=1),
+    schedule_interval=timedelta(seconds=15),
     start_date=datetime(2022 , 1, 31),
     catchup = False,
     tags = ['example']
