@@ -71,7 +71,7 @@ def update_data_to_sheet():
 # append_data = [[3,"venkataswaramma","vuppla"]]
 
 
-
+# etoro, amazon , insta , twitter, spotify , amazon music , apple music, youtube, 
 
 #####################
 
